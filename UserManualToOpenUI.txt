@@ -1,0 +1,13 @@
+Requirements:
+Anaconda
+https://www.anaconda.com/download
+
+Anaconda prompt
+"pip install streamlit"
+"cd RDS2S1G3_ChewLipSin_LimYiLeong_FungChunXiang_EugeneTeohKaiSiang" //Go to the folder
+"streamlit run golfApp.py"
+You may access the localhost
+IF cannot:
+Copy the http://localhost:8501 to your browser and paste into the url and then run the deploy model.
+Now you can test the model
+or go to my report appendix there got link to this app. I have deploy the model on streamlit.
